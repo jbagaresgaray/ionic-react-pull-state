@@ -1,0 +1,7 @@
+{
+  "name": "ionic-react-pull-state",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
