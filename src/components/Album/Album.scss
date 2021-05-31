@@ -1,0 +1,14 @@
+.Album {
+    &-Card {
+        margin-inline: 0px;
+        margin: 24px 8px 0px;
+    }
+    &-Item {
+        --padding-start: 8px;
+        ion-label {
+            h2 {
+                font-weight: 600;
+            }
+        }
+    }
+}
